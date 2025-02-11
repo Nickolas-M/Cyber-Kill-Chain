@@ -1,4 +1,4 @@
-# Cyber Kill Chain
+# The Cyber Kill Chain
 TODO
 
 ![THE-CYBER-KILL-CHAIN-body png pc-adaptive 1280 medium](https://github.com/user-attachments/assets/db2bc51c-95d1-4a6d-858c-32e91de307eb)
