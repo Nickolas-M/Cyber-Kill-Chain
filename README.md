@@ -30,6 +30,10 @@ https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/G
 
 https://www.crowdstrike.com/en-us/cybersecurity-101/cyberattacks/cyber-kill-chain/
 
+https://www.microsoft.com/en-us/security/business/security-101/what-is-cyber-kill-chain
+
+https://www.splunk.com/en_us/blog/learn/cyber-kill-chains.html
+
 ### Image
 
 https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
