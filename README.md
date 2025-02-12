@@ -12,10 +12,10 @@ Reconnaissance is the data gathering stage, discovering possible threat vectors 
 The weaponization phase focuses on the malware and delivery methods intended to be used throughout the cyber attack. Threat actors create new and adapt old malware optimized to best exploit the targeted organization weaknesses. Using the vital information gathered in the reconnaissance phase to tailor their tools. Increasing their chances of operational success and reducing the likelihood of being detected.
 
 ## Delivery
-TODO
+Threat actors attempt to initiate the attack by launching the malware developed in the weaponization phase. Attackers will often use social engineering tactics like phishing or exploit vulnerabilities found in an organization. Multiple delivery methods can be used in unison to increase the effectiveness and success of the attack. 
 
 ## Exploitation
-TODO
+Once a threat actor successfully infiltrates an organization, the malware they delivered is executed. Attackers will attempt to move laterally throughout an organizations systems, attempting to discover sensitive data, higher privileged accounts, and weaknesses to gain more access within the organization. Making calculated movements to further propel access and control within the organizations systems increasing the attackers capabilities. 
 
 ## Installation
 TODO
